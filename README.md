@@ -6,6 +6,6 @@ To run the codes, one may follow these steps:
 * Clone this repository on your computer.
 * Run the file demos.m2 in Macaulay2.
 
-Some computation results on bases are recorded [here](./Python_files). 
+Some computation results on bases are recorded [here](GCdemos/Python_files). 
 One may run those codes in Python to obtain some 3D interactive surfaces. 
 We have some screenshots on the [author's webpage](https://sites.google.com/view/beihuiyuan/home/demos).
